@@ -1,0 +1,44 @@
+/* Tag selectors*/
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 215px;
+  border-radius: 4%;
+}
+
+/* Class selectors*/
+
+.paragraph {
+  margin: 10px;
+}
+
+.p1 {
+  font-weight: 700;
+}
+
+.p2 {
+  width: 100%;
+  color: hsl(220, 15%, 55%);
+  font-size: 12px;
+}
+
+.main {
+  background-color: white;
+  width: 215px;
+  border-radius: 6%;
+  margin: 100px auto;
+  padding: 10px 11px 15px;
+  box-shadow: 1px 7px 10px lightgray;
+}
+.attribution {
+  font-size: 10px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
